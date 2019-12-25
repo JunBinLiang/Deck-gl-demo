@@ -1,0 +1,16 @@
+{
+	"Icon1":{
+		"x": 0,
+		"y": 0,
+		"width": 24,
+		"height": 20,
+		"anchorY": 20
+   },
+	"Icon2":{
+			"x": 0,
+			"y": 25,
+			"width": 18,
+			"height": 20,
+			"anchorY": 20
+		}
+}
